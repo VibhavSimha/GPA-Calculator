@@ -1,4 +1,7 @@
 ﻿# EL_Projects
+ Team-
+ Vibhav Simha,Yashas Donthi
+ 
  Title: GPA Calculator Application Using Python
  
 With the aim of creating a GPA calculator applicaiton, Python was the most appealing option for development due to its easy to use and versatile Tkinter module.
