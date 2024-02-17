@@ -1,5 +1,4 @@
-﻿# EL_Projects
- Team-
+Project Team-
  Vibhav Simha,Yashas Donthi
  
  Title: GPA Calculator Application Using Python
